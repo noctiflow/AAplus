@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="538c61ed-d944-4f39-90ac-98a91ae4cb65" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/Ct/CtmWMvB5nXoWY4kipMdvTyKZSB9trsfYaUHKN9mod54.cache" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/Ct/CtmWMvB5nXoWY4kipMdvTyKZSB9trsfYaUHKN9mod54.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/Qa/Qa1Yd90Pc8vDp5_XYQ1NzSI9KJA2k5Awz4KdT298lLE.cache" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/Qa/Qa1Yd90Pc8vDp5_XYQ1NzSI9KJA2k5Awz4KdT298lLE.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/TS/TS_T3fmR6ElkX9mZC7qShGheQMIVRioWxiDuJ0GibE8.cache" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/TS/TS_T3fmR6ElkX9mZC7qShGheQMIVRioWxiDuJ0GibE8.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/WI/WirY5ZAR5pmM_q6jd4yhKA8Tt_ToTpmrpb8cFheZNyw.cache" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/WI/WirY5ZAR5pmM_q6jd4yhKA8Tt_ToTpmrpb8cFheZNyw.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/Zz/Zzc_AWUqFxfqOZS3-QUsF1Rls7EFQRPJAECR8IhVmOk.cache" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/Zz/Zzc_AWUqFxfqOZS3-QUsF1Rls7EFQRPJAECR8IhVmOk.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/dq/dq55dzT_2wLxenOcBuCgVt3K_LufpQ5_IR8TM9FL1Yc.cache" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/dq/dq55dzT_2wLxenOcBuCgVt3K_LufpQ5_IR8TM9FL1Yc.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/kp/kpcsL79nDUU_NrIBKncxe3eli40-TvDi3NWxqFnnJKM.cache" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/kp/kpcsL79nDUU_NrIBKncxe3eli40-TvDi3NWxqFnnJKM.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/qe/qeou4BkTWLcLJAAVacGZLZwNnr5dsIt-9_gnjH6aToY.cache" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/qe/qeou4BkTWLcLJAAVacGZLZwNnr5dsIt-9_gnjH6aToY.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/x7/x7PYh8DJvPykcEqpVab2vcY9-GFz-3cqtoMlRAu94Uc.cache" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/x7/x7PYh8DJvPykcEqpVab2vcY9-GFz-3cqtoMlRAu94Uc.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/development.log" afterPath="$PROJECT_DIR$/log/development.log" />
     </list>
     <ignored path="aaplus2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -297,12 +307,12 @@
       <option name="presentableId" value="Default" />
       <updated>1500246749251</updated>
       <workItem from="1500246750503" duration="565000" />
-      <workItem from="1500280943384" duration="555000" />
+      <workItem from="1500280943384" duration="818000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1120000" />
+    <option name="totallyTimeSpent" value="1383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="82" y="52" width="1338" height="791" extended-state="0" />
